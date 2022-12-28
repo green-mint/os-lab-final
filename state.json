@@ -1,0 +1,1 @@
+{"type": "dir", "name": "/", "path": "", "children": [{"type": "dir", "name": "dir1", "path": "/dir1", "children": [{"type": "file", "name": "hello.txt", "path": "/dir1/hello.txt", "data": "hfgberhgeiurhguirwhrwhgeyrghrey"}]}, {"type": "dir", "name": "dir2", "path": "/dir2", "children": []}]}
